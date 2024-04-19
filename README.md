@@ -3,11 +3,7 @@
 command to execute in ubuntu
 
 sudo su
-
-
 apt update -yelected
-
-
 apt install -y apache2
 systemctl status apache2
 mkdir aws_assg3
